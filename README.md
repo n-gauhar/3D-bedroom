@@ -1,6 +1,8 @@
 # 3D-bedroom using OpenGL
 This is an assignment done for my Computer Graphics lab using C++ and OpenGL. The GL, GLU and GLUT libraries were used. The bedroom was designed using cubes, pyramids and one 2D polygon.
 
+![picture alt]()
+
 The features of the bedroom - 
 * Two point lights, one spotlight
 * No textures, no curve
